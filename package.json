@@ -1,6 +1,6 @@
 {
   "name": "ts-mixin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A type-only package for creating mixins in TypeScript",
   "homepage": "https://github.com/bakerface/ts-mixin",
   "license": "MIT",
