@@ -2,7 +2,7 @@
 **A type-only package for creating mixins in TypeScript**
 
 ``` typescript
-import type { Mixin } from "ts-mixin";
+import type { Mixin } from "@bakerface/ts-mixin";
 
 interface AmountFeatures {
   getAmount(): number;
