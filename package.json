@@ -1,5 +1,5 @@
 {
-  "name": "ts-mixin",
+  "name": "@bakerface/ts-mixin",
   "version": "1.0.1",
   "description": "A type-only package for creating mixins in TypeScript",
   "homepage": "https://github.com/bakerface/ts-mixin",
